@@ -1,0 +1,35 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.homepage-header {
+    font-size: 45px;
+    text-align: center;
+    font-weight: bold;
+}
+
+/* while this works, I will be trying to see if there's a more optimal way to aling the logo than using two sepearte classes */
+
+.homepage-logo-alignment {
+    text-align: center;
+}
+
+.homepage-logo {
+    height: 200px;
+    width: auto;
+}
+
+/*  */
+
+.homepage-page-list-container {
+    text-align: center;
+}
+
+.homepage-page-list {
+    display: inline-block;
+    text-align: left;
+    list-style-type: none;
+    font-size: 35px;
+}
+
+/* End of Homepage CSS */
